@@ -1,4 +1,4 @@
-package com.system.RegistrationSystem.appuser;
+package com.system.RegistrationSystem.entity;
 
 public enum AppUserRole {
     USER,
